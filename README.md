@@ -7,4 +7,4 @@ It helped me understand better the core basics of the DOM and I got to practice 
 
 ### Inspiration
 
-My parents always ask their Siri about the weather, especially on vacation so I decided to put together a weather website for them. <3
+My parents always ask their Siri about the weather, especially on vacation so I decided to put together a weather website for them. 
